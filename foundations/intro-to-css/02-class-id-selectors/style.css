@@ -1,5 +1,18 @@
 .odd_element {
     background-color: lightpink;
-    font-family: Verdana, sans-serif;
-    font-family: 'DejaVu Sans', sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.font_size {
+    font-size: 24px;
+}
+
+#second_element {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth_element {
+    background-color: lightgreen;
+    font-weight: bold;
 }
